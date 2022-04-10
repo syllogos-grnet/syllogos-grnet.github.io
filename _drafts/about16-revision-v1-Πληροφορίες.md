@@ -1,10 +1,11 @@
 ---
-id: 16
+id: 190
 title: Πληροφορίες
-date: '2019-11-27T11:16:52+02:00'
-author: 'Alex Kiousis'
-layout: page
-guid: 'https://syllogos.grnet.gr/?page_id=16'
+date: '2022-04-01T11:08:02+02:00'
+author: aapostolidis
+layout: revision
+guid: 'https://syllogos.grnet.gr/2022/04/01/16-revision-v1/'
+permalink: /2022/04/01/16-revision-v1/
 ---
 
 #### Σκοποί του Συλλόγου:
