@@ -1,0 +1,16 @@
+---
+---
+
+@import "minima";
+
+$head-spacer: 6px;
+
+.site-header {
+    border-top: none;
+}
+.site-title::before {
+    content:url("{% link wp-content/uploads/2019/12/lo-32.png %}");
+    position: relative;
+    top: $head-spacer;
+    margin-right: $head-spacer;
+}
