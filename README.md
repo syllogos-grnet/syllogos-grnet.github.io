@@ -1,6 +1,6 @@
 # Σύλλογος Εργαζομένων και Συνεργατών ΕΔΥΤΕ
 
-#### syllogos.grnet.gr web site
+### syllogos.grnet.gr web site
 
 Build with jekyll for GH pages
 
