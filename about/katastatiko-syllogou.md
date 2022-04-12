@@ -10,4 +10,4 @@ permalink: /about/katastatiko-syllogou/
 
 Παρακάτω μπορείτε να βρείτε το καταστατικό του *Συλλόγου Εργαζομένων και Συνεργατών της ΕΔΕΤ Α.Ε.* σε ψηφιακή μορφή:
 
-<div class="wp-block-file">[ΣύλλογοςΕργαζομένωνGRNET-Καταστατικό2016](https://syllogos.grnet.gr/wp-content/uploads/2019/11/ΣύλλογοςΕργαζομένωνGRNET-Καταστατικό2016.pdf)[Download](https://syllogos.grnet.gr/wp-content/uploads/2019/11/ΣύλλογοςΕργαζομένωνGRNET-Καταστατικό2016.pdf)</div>
+[**ΣύλλογοςΕργαζομένωνGRNET-Καταστατικό2016**](/wp-content/uploads/2019/11/ΣύλλογοςΕργαζομένωνGRNET-Καταστατικό2016.pdf)

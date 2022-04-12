@@ -10,6 +10,6 @@ categories:
     - Uncategorized
 ---
 
-Μπορείτε να βρείτε το καταστατικό του *Συλλόγου Εργαζομένων και Συνεργατών της ΕΔΕΤ Α.Ε.* σε αυτό το [σύνδεσμο](https://syllogos.grnet.gr/wp-content/uploads/2019/11/ΣύλλογοςΕργαζομένωνGRNET-Καταστατικό2016.pdf) (https://syllogos.grnet.gr/wp-content/uploads/2019/11/ΣύλλογοςΕργαζομένωνGRNET-Καταστατικό2016.pdf) .
+Μπορείτε να βρείτε το καταστατικό του *Συλλόγου Εργαζομένων και Συνεργατών της ΕΔΕΤ Α.Ε.* σε αυτό το [σύνδεσμο](/wp-content/uploads/2019/11/ΣύλλογοςΕργαζομένωνGRNET-Καταστατικό2016.pdf).
 
-<div class="wp-block-file">[ΣύλλογοςΕργαζομένωνGRNET-Καταστατικό2016](https://syllogos.grnet.gr/wp-content/uploads/2019/11/ΣύλλογοςΕργαζομένωνGRNET-Καταστατικό2016.pdf)[Download](https://syllogos.grnet.gr/wp-content/uploads/2019/11/ΣύλλογοςΕργαζομένωνGRNET-Καταστατικό2016.pdf)</div>
+[**ΣύλλογοςΕργαζομένωνGRNET-Καταστατικό2016**](/wp-content/uploads/2019/11/ΣύλλογοςΕργαζομένωνGRNET-Καταστατικό2016.pdf)
