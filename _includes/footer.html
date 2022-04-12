@@ -1,0 +1,38 @@
+<script type='text/javascript' src='{% link assets/email-protector.js %}'></script>
+<footer class="site-footer h-card">
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Επικοινωνία</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        {%- if site.contacts.size > 0 -%}
+        <ul class="contact-list">
+          {%- for contact in site.contacts -%}
+          <li class="p-name">
+            {{ contact.name | escape }}
+          </li>
+          <li>
+          {%- if contact.email_protected | default: false -%}
+          <script>EmailProtector.write('{{ contact.email }}');</script>
+          {%- else -%}
+          <a class="u-email" href="mailto:{{ contact.email }}">{{ contact.email }}</a>
+          {%- endif -%}
+          </li>
+          {%- endfor -%}
+        </ul>
+        {%- endif -%}
+      </div>
+
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{- site.description | escape -}}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>

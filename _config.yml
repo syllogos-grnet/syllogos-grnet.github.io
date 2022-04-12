@@ -18,8 +18,6 @@ email: your-email@example.com
 description: ''
 baseurl: "" # the subpath of your site, e.g. /blog
 url: 'https://syllogos.grnet.gr'
-# twitter_username: jekyllrb
-# github_username:  jekyll
 
 # Build settings
 markdown: kramdown
@@ -69,3 +67,11 @@ show_excerpts: true
 # overriding _includes/head.html; this is natively supported in minima HEAD,
 # yet unreleased
 google_analytics: true
+
+contacts:
+  - name: Διοικητικό Συμβούλιο Συλλόγου
+    email: 'qf-flyybtbh@nqzva.tearg.te'
+    email_protected: true
+  - name: Ολομέλεια Συλλόγου
+    email: flyybtbf@yvfgf.tearg.te
+    email_protected: true
