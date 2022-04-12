@@ -6,6 +6,8 @@ author: zmousm
 layout: post
 guid: 'https://syllogos.grnet.gr/?p=185'
 permalink: /2022/03/28/apochi-apo-tin-ergasia-06-04/
+redirect_from:
+    /2022/03/28/%ce%b1%cf%80%ce%bf%cf%87%ce%ae-%ce%b1%cf%80%cf%8c-%cf%84%ce%b7%ce%bd-%ce%b5%cf%81%ce%b3%ce%b1%cf%83%ce%af%ce%b1-%cf%83%cf%84%ce%b9%cf%82-06-04/
 categories:
     - Uncategorized
 ---

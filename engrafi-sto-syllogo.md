@@ -6,6 +6,8 @@ author: 'Alex Kiousis'
 layout: page
 guid: 'https://syllogos.grnet.gr/?page_id=114'
 permalink: /engrafi-sto-syllogo/
+redirect_from:
+    /%ce%b5%ce%b3%ce%b3%cf%81%ce%b1%cf%86%ce%ae-%cf%83%cf%84%ce%bf-%cf%83%cf%8d%ce%bb%ce%bb%ce%bf%ce%b3%ce%bf/
 ---
 
 Για την εγγραφή απαιτείται η συμπλήρωση της συνημμένης αίτησης και η πρόταση από 5 υπάρχοντα μέλη του συλλόγου.
