@@ -60,6 +60,11 @@ header_pages:
 lang: el
 locale: el_GR
 
+minima:
+  date_format: "%-d %b %Y"
+
+show_excerpts: true
+
 # Hack: Use _includes/google-analytics.html for favicons, only to avoid
 # overriding _includes/head.html; this is natively supported in minima HEAD,
 # yet unreleased
