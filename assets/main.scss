@@ -14,3 +14,11 @@ $head-spacer: 6px;
     top: $head-spacer;
     margin-right: $head-spacer;
 }
+.site-title {
+    font-weight: inherit;
+    letter-spacing: inherit;
+}
+.site-nav {
+    line-height: $base-line-height * $base-font-size * 2.25 / 2;
+    margin-bottom: $head-spacer;
+}
