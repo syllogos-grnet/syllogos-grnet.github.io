@@ -5,6 +5,7 @@ date: '2020-11-23T19:56:34+02:00'
 author: 'Alex Kiousis'
 layout: page
 guid: 'https://syllogos.grnet.gr/?page_id=114'
+permalink: /engrafi-sto-syllogo/
 ---
 
 Για την εγγραφή απαιτείται η συμπλήρωση της συνημμένης αίτησης και η πρόταση από 5 υπάρχοντα μέλη του συλλόγου.

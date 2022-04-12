@@ -5,6 +5,7 @@ date: '2019-12-05T12:25:07+02:00'
 author: 'Eirini Degleri'
 layout: page
 guid: 'https://syllogos.grnet.gr/?page_id=49'
+permalink: /home/
 ---
 
 #### Σκοποί του Συλλόγου:
