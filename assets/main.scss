@@ -8,15 +8,15 @@ $head-spacer: 6px;
 .site-header {
     border-top: none;
 }
-.site-title::before {
-    content:url("{% link wp-content/uploads/2019/12/lo-32.png %}");
-    position: relative;
-    top: $head-spacer;
-    margin-right: $head-spacer;
-}
 .site-title {
     font-weight: inherit;
     letter-spacing: inherit;
+    &::before {
+        content:url("{% link wp-content/uploads/2019/12/lo-32.png %}");
+        position: relative;
+        top: $head-spacer;
+        margin-right: $head-spacer;
+    }
 }
 .site-nav {
     line-height: $base-line-height * $base-font-size * 2.25 / 2;
